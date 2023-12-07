@@ -1,0 +1,3 @@
+PKL 2023 2024
+- Mengerjakan praktik yang diberikan dari industri
+- Belajar Git & Github
